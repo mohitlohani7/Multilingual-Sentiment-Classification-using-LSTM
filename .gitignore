@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Models and large data files (if they are too big for GitHub)
+# data/ (maybe not, let's keep data if it's small)
+# models/*.h5
+# models/*.pt
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,26 @@
+[
+  {
+    "text": "worst movie",
+    "model_prediction": "Positive",
+    "confidence": 0.575,
+    "correct_label": "Negative"
+  },
+  {
+    "text": "worst movie",
+    "model_prediction": "Positive",
+    "confidence": 0.575,
+    "correct_label": "Negative"
+  },
+  {
+    "text": "worst movie ",
+    "model_prediction": "Positive",
+    "confidence": 0.575,
+    "correct_label": "Negative"
+  },
+  {
+    "text": "The songs and cinematography incline towards getting inspired or carry oneself as a goon like toxic personality. The viral song of the movie running all across social media glamorizes and is subliminally loaded via song choice and shooting to imitate and idolize Rehman Dakait in the mindset of the viewer. The same has been thoroughly, cleverly and covertly implemented in the movie.\n\nPatriotism etc have been used up as cover and not impactfully emphasized in the movie presentation.\n\nDefinitely, not a recommended movie for anyone considering the distorted effect it creates on viewer's mind under false identity of patriotism",
+    "model_prediction": "Positive",
+    "confidence": 0.678,
+    "correct_label": "Negative"
+  }
+]

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tensorflow
+numpy
+pandas
+streamlit
+requests
+pydantic
+python-multipart
